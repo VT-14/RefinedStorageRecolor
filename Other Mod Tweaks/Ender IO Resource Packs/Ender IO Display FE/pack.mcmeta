@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Make Ender IO display FE rather than µI",
+    "pack_format": 3
+  }
+}
