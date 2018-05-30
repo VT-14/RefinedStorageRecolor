@@ -1,0 +1,19 @@
+Black: TBD
+Red: 0 75 0
+Green: 120 75 0
+Brown: 30 50 -50
+Blue: 240 75 0
+Purple: 275 75 0
+Cyan: 180 75 0
+light Gray: TBD
+Gray: TBD
+Pink: 350 100 50
+Lime: 75 75 0
+Yellow: 50 75 0
+Light Blue: TBD
+Magenta: 300 75 0
+Orange: 30 75 0
+White: TBD
+
+All textures: Colorize master files according to above chart.
+Security Card (Inactive) and Pattern Grid GUI - Saturation -75%
